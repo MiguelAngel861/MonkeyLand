@@ -10,11 +10,10 @@
 
 ### 🎯 Características del Servidor
 
-- **Versión**: Minecraft 1.21.1
-- **Modo**: Supervivencia - Dificultad HARD
-- **PvP**: ¡Sí! (Compite con tus amigos)
-- **Vuelo**: No permitido (¡que sea desafiante!)
 - **Comunidad**: Grupo cerrado de amigos
+- **Versión**: Minecraft 1.21.1
+- **Modo**: Supervivencia
+- **Dificulta**: Hard
 
 ---
 
@@ -34,7 +33,7 @@
 | **Twilight Forest** | Client-Server | Dimensión adicional para explorar |
 | **Roots 3** | Client-Server | Magia natural y plantas mágicas |
 
-> 📌 **Descarga el ModPack**: Incluye todos los mods obligatorios ya configurados
+> **Descarga el ModPack**, incluye todos los mods obligatorios ya configurados
 > Disponible en: [Enlace al ModPack]
 
 ---
@@ -50,7 +49,7 @@
 | **Gravestone Mod** | Client-Side | Recupera tus items cuando mueres |
 | **Minimap** | Client-Side | Mapa miniatura en la esquina de tu pantalla |
 
-> 💡 **Consejo**: Los mods opcionales son solo para ti. Instálalos para mejorar tu rendimiento y experiencia visual
+> Los mods opcionales son solo para ti. Instálalos para mejorar tu rendimiento y experiencia visual
 
 ---
 
@@ -80,29 +79,6 @@ Galería de momentos memorables en el servidor:
 *Eventos especiales del servidor*
 
 > 📷 *¿Tienes una captura genial? ¡Compártela con nosotros!*
-
----
-
-## 🚀 ¿Cómo Conectar?
-
-1. **Abre Minecraft** (versión 1.21.1)
-2. **Dirección del Servidor**: `localhost:25565` (o la IP del servidor si juegas desde otra máquina)
-3. **¡Listo!** Presiona conectar y prepárate para la aventura
-
-### ¿Primera vez?
-- Aparecerás en el spawn principal
-- Recoge recursos cercanos
-- ¡Comienza tu aventura!
-
----
-
-## 💬 Reglas del Servidor
-
-- **Sé respetuoso** con otros jugadores
-- **No griefear** (destruir construcciones ajenas)
-- **Colabora** en proyectos comunitarios
-- **Diviértete** (lo más importante)
-- **Reporta problemas** al administrador
 
 ---
 
