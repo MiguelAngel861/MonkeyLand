@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MonkeyLand - Servidor Minecraft 1.21.1</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-brand">🐵 MonkeyLand</div>
+            <ul class="nav-menu">
+                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#info">Información</a></li>
+                <li><a href="#conectar">Conectar</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <section id="inicio" class="hero">
+        <div class="hero-content">
+            <h1>🐵 MonkeyLand</h1>
+            <p>Un servidor de Minecraft 1.21.1 para amigos</p>
+            <button class="btn btn-primary" onclick="scrollTo('#conectar')">Conectar Ahora</button>
+        </div>
+    </section>
+
+    <section id="info" class="info">
+        <div class="container">
+            <h2>Información del Servidor</h2>
+            <div class="info-grid">
+                <div class="info-card">
+                    <h3>📦 Versión</h3>
+                    <p>Minecraft 1.21.1</p>
+                </div>
+                <div class="info-card">
+                    <h3>⚙️ Tipo</h3>
+                    <p>Supervivencia</p>
+                </div>
+                <div class="info-card">
+                    <h3>🎮 Modo Juego</h3>
+                    <p>Survival - Hard</p>
+                </div>
+                <div class="info-card">
+                    <h3>👥 Jugadores</h3>
+                    <p>Grupo cerrado</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="conectar" class="connect">
+        <div class="container">
+            <h2>Cómo Conectar</h2>
+            <div class="connect-box">
+                <p>Dirección del servidor:</p>
+                <code class="server-ip">localhost:25565</code>
+                <p class="note">*Asegúrate de estar en la red local o usa un túnel VPN para acceder remoto.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="contacto" class="contact">
+        <div class="container">
+            <h2>Contacto</h2>
+            <p>Para más información o reportar problemas, contacta al administrador del servidor.</p>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <p>&copy; 2025 MonkeyLand. Todos los derechos reservados.</p>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
